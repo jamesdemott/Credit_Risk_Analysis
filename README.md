@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 **Overview of the Analysis***
-The purpose of my analysis was to examinea credit card dataset from LendingClub, clean and prepare this data set, and ultimately employ a variety of techniques to train and evaluate models with unbalanced classes. I employed resampling models to predict future credit risk using resampling, SMOTEEN, and ensemble classifiers. Below are my analysis of which models had high predictive capability. 
+The purpose of my analysis was to examine a credit card dataset from LendingClub, clean and prepare this data set, and ultimately employ a variety of techniques to train and evaluate models with unbalanced classes. I employed resampling models to predict future credit risk using resampling, SMOTEEN, and ensemble classifiers. Below are my analysis of which models had high predictive capability. 
 
 **Model Results**
 ##### Naive Random Oversampling:
