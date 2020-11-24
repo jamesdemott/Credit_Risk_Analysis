@@ -53,3 +53,7 @@ The purpose of my analysis was to examinea credit card dataset from LendingClub,
 * Recall:
   * High Risk: .85
   * Low Risk: .93
+
+To summarize the results, I found that the ensemble classifiers tended to have far higher balanced accuracy scores. In the context of credit risk analysis, the priority should be to use a model which has a high sensitivity for the high risk groups so that LendingClub can deny these applications on the basis of high risk and avoid bad loans. 
+
+Recall offers us a measure of the true positives which were correctly predicted. To this end, I recommend utilizing AdaBoost Classfier as this model has the highest recall score for high risk predictions, meaning that it is most likely to assist LendingClub in avoiding risky borrowers. 
